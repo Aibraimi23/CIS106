@@ -23,8 +23,16 @@ focal 2.0.5-1 amd64
 ## Question 2
 ![Question2](Q2.png)
 ![Question2.1](Q2.1.png)
+
 ## Question 3
-![Question3]()
+![Question3](Q3.png)
+
 ## Question 4
+![Question4](Q4.png)
+![Question4](Q4.1.png)
 
 ## Question 5
+![Question5](Q5.png)
+![Question5](Q5.1.png)
+![Question5](Q5.2.png)
+![Question5](Q5.3.png)
