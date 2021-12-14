@@ -1,0 +1,2 @@
+# Deliverable 2
+I will be using a website called adrianmejia.com to help and guide me through to creating a file server using samba. I will be going through and using the terminal in Linux to create a file server and configure it to be accessible from my windows pc.
