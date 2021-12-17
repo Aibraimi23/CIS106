@@ -54,3 +54,7 @@
 
 
 ## Work Cited
+
+“Linux Samba File Server Setup Checklist.” Process Street, 7 Feb. 2018, https://www.process.st/checklist linux-samba-file-server-setup-checklist/.
+
+“Samba - File Server.” Ubuntu, https://ubuntu.com/server/docs/samba-file-server.
